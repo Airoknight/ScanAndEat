@@ -16,3 +16,24 @@ img{
     
 }
 
+@media (min-width:593px) {
+    .filterable_imgs{
+        columns:3;
+      
+    } 
+}
+
+@media (min-width:771px) {
+    .filterable_imgs{
+        columns: 4;
+      
+    } 
+}
+
+@media (min-width:1405px) {
+    .filterable_imgs{
+        columns:5;
+      
+    } 
+}
+
